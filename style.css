@@ -1,0 +1,12 @@
+*{
+	background-color: black;
+}
+
+
+.frase{
+	background-color:tomato;
+	color:white;
+	padding:1em;
+	font-family:monospace;
+	text-align:center;
+}
